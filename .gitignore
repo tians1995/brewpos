@@ -1,0 +1,14 @@
+.DS_Store
+/.env
+/vendor
+/node_modules
+/public/build
+/storage/*.key
+/storage/framework/
+/storage/logs/
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+/database/*.sqlite
+/database/*.sqlite-*
+*.zip
+/tugas-docx/
